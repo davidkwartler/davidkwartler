@@ -1,12 +1,12 @@
 # Hey, I'm David
 
-I build products that bridge the gap between trust, security, and user experience. My focus is on designing the authorization frameworks that allow platforms to safely partner and scale with the next frontier of AI interaction models.
+AI builder PM and CIAM expert. I design the authorization frameworks that allow platforms to safely partner and scale with the next frontier of AI interaction models.
 
 **What I work on**
 
-- **AI Authorization** — Building identity and consent layers for MCP-based product integrations and agentic experiences
+- **AI Agent Authorization** — Building identity and consent layers for MCP-based integrations that enable personalized, secure agentic experiences
 - **Identity Connectivity** — Designing OAuth 2.0 and OIDC systems that power enterprise partnerships and secure data exchange at scale
-- **Platform Trust** — Driving initiatives across authentication, fraud prevention, and privacy to improve conversion and account security
+- **PM Builder Model** — Closing the gap between product vision and working software by leveraging AI tools to ship production features and tighten the feedback loop from idea to customer
 
 **About me**
 
