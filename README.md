@@ -1,17 +1,18 @@
 # Hey, I'm David
 
-Senior Product Manager at Expedia Group in Austin. I work on identity connectivity: the account linking, consent, and authorization systems that power Expedia's partnerships across loyalty programs, social platforms, and AI experiences.
+Senior Product Manager at Expedia Group in Austin. I build account linking for Expedia's loyalty and AI partners, so travelers' member benefits follow them into agentic AI experiences.
 
 **What I work on**
 
-- **Account linking & identity connectivity**: OAuth 2.0 and OIDC systems that turn "connect my account" into member acquisition, retention, conversion, and better return on ad spend
-- **AI agent authorization**: scoped, revocable access models for agentic experiences and MCP-based integrations
-- **Building**: I prototype identity product ideas in working code; most of what's on this profile is me testing a concept before it becomes a roadmap item
+- **Account linking for AI**: Expedia with AI partners like OpenAI, Anthropic, Google, Meta, and Amazon. Travelers connect their Expedia account, or join our rewards program, without leaving the assistant
+- **Member benefits everywhere**: member prices inside AI assistants, and loyalty partnerships where members earn perks
+- **AI permissions**: clear consent, scoped permissions, and revocable access for when an assistant acts on a traveler's behalf, across MCP-based integrations
+- **Building**: I use AI tools to ship features and experiments to production. Side projects here are where ideas get tested first, like [Sentinel](https://github.com/davidkwartler/sentinel), session-hijack detection with device fingerprints and AI
 
 **Currently thinking about**
 
+- What makes a traveler link an account inside someone else's app?
 - Consent models for agent delegation. Who did the user *actually* authorize?
 - Authorization patterns beyond OAuth's browser-and-device assumptions
-- What loyalty partnerships teach us about trust UX for AI
 
 Outside work: racing a Porsche Cayman, a lot of live music, and a cat named Rey. More at [davidkwartler.com](https://www.davidkwartler.com)
